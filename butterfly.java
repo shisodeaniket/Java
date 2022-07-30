@@ -1,8 +1,7 @@
 
-
 public class butterfly {
     public static void main(String args[]){
-        int n=5;
+        int n=5;  //how many number of lines want to print "lines will be doubled", coz of the symmetricity
         //for first part of *
          for (int i=1; i<=n; i++)
          {
